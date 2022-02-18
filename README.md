@@ -8,27 +8,16 @@ To develop a python control code to move the mobilerobot along the predefined pa
 2. Python 3.7
 
 ## Procedure
-
-Step1:
-
-<br/>
-
-Step2:
-
-<br/>
-
-Step3:
-
-<br/>
-
-Step4:
-
-<br/>
-
-Step5:
-
-<br/>
-
+### Step1: 
+Import robot from robomaster start the project.
+### Step2: 
+Import time.
+### step3: 
+Adjust the x, y and z axis to adjust the movement of the robot.
+### Step4: 
+Adjust the movement of the robot to move in circles.
+### Step5:
+Close to finish the progaram.
 ## Program
 ```
 from robomaster import robot
@@ -74,18 +63,16 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
-
-Insert image here
-
-
+## Starting positions:
+![start](./img/start.jpeg)
+## Finishing positions:
+![end](./img/end.jpeg)
 <br/>
 <br/>
 <br/>
 <br/>
 
 ## MobileRobot Movement Video:
-
-Upload your video in Youtube and paste your video-id here
 
 [![IMAGE ALT TEXT HERE](./img/thumb.jpeg)](https://youtube.com/shorts/qBgplv48Nr4?feature=share)
 
